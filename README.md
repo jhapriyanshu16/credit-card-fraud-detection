@@ -27,10 +27,6 @@ The goal of this project is to build a classification model that accurately iden
 - joblib
 - matplotlib
 
-## Library Installation
-```bash
-pip install pandas scikit-learn joblib matplotlib```
-
 
 ## How to Use
 1. Clone the repository to your local machine.
@@ -39,6 +35,7 @@ pip install pandas scikit-learn joblib matplotlib```
 4. Run the Jupyter Notebook to execute the project code.
 5. Explore the model performance and predictions based on the provided example.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Library Installation
+```bash
+pip install pandas scikit-learn joblib matplotlib
 
