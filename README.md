@@ -29,7 +29,7 @@ The goal of this project is to build a classification model that accurately iden
 
 ## Library Installation
 ```bash
-pip install pandas scikit-learn joblib matplotlib
+pip install pandas scikit-learn joblib matplotlib```
 
 
 ## How to Use
